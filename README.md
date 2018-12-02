@@ -10,5 +10,5 @@ This is repository to get a habit from your post from facebook
   ```
   pip install -r requirement.txt
   ```
-  ###This is data visualzation from my post facebook account 
+  ######This is data visualzation from my post facebook account 
   ![This is the data visualization using matplotlib](https://github.com/localhostfotly/social-media-data-mining/blob/master/posts_per_hour1.png)
