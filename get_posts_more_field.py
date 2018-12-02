@@ -6,7 +6,7 @@ import json
 import facebook
 import requests
 if __name__ == '__main__':
-    token = os.environ.get('FACEBOOK_TEMP_TOKEN') #to get a facebook TOKEN API
+    token = os.environ.get('#FACEBOOK TOKEN API') #to get a facebook TOKEN API
     graph = facebook.GraphAPI(token)
     all_fields = [
                     'message',
